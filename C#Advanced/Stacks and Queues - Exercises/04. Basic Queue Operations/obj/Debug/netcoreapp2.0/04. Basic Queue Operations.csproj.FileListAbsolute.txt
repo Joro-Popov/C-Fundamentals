@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.pdb

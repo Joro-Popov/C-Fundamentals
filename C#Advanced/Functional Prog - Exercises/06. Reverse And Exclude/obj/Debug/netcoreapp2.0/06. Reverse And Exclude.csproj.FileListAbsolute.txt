@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb

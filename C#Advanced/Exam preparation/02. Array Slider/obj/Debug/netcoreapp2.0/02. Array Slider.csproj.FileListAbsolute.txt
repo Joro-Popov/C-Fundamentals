@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\bin\Debug\netcoreapp2.0\02. Array Slider.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\bin\Debug\netcoreapp2.0\02. Array Slider.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\bin\Debug\netcoreapp2.0\02. Array Slider.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\bin\Debug\netcoreapp2.0\02. Array Slider.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\bin\Debug\netcoreapp2.0\02. Array Slider.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Array Slider\obj\Debug\netcoreapp2.0\02. Array Slider.pdb

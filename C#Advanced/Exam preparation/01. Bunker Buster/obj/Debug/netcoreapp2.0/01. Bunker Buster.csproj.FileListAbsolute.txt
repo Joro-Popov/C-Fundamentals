@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\bin\Debug\netcoreapp2.0\01. Bunker Buster.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\bin\Debug\netcoreapp2.0\01. Bunker Buster.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\bin\Debug\netcoreapp2.0\01. Bunker Buster.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\bin\Debug\netcoreapp2.0\01. Bunker Buster.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\bin\Debug\netcoreapp2.0\01. Bunker Buster.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Bunker Buster\obj\Debug\netcoreapp2.0\01. Bunker Buster.pdb

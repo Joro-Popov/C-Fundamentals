@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\bin\Debug\netcoreapp2.0\11. The Party Reservation.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\11. The Party Reservation\obj\Debug\netcoreapp2.0\11. The Party Reservation.pdb

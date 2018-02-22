@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\bin\Debug\netcoreapp2.0\05. Pokemon Evolution.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\bin\Debug\netcoreapp2.0\05. Pokemon Evolution.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\bin\Debug\netcoreapp2.0\05. Pokemon Evolution.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\bin\Debug\netcoreapp2.0\05. Pokemon Evolution.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\bin\Debug\netcoreapp2.0\05. Pokemon Evolution.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\05. Pokemon Evolution\obj\Debug\netcoreapp2.0\05. Pokemon Evolution.pdb

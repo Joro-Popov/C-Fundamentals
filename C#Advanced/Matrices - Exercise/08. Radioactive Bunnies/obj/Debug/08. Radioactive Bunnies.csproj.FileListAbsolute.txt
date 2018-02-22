@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\bin\Debug\_08.Radioactive_Bunnies.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\bin\Debug\_08.Radioactive_Bunnies.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\bin\Debug\_08.Radioactive_Bunnies.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\obj\Debug\08. Radioactive Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\obj\Debug\08. Radioactive Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\obj\Debug\_08.Radioactive_Bunnies.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\08. Radioactive Bunnies\obj\Debug\_08.Radioactive_Bunnies.pdb

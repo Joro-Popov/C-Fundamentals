@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.pdb

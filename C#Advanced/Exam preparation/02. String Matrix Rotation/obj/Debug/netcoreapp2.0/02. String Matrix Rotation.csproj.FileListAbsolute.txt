@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\bin\Debug\netcoreapp2.0\02. String Matrix Rotation.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\bin\Debug\netcoreapp2.0\02. String Matrix Rotation.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\bin\Debug\netcoreapp2.0\02. String Matrix Rotation.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\bin\Debug\netcoreapp2.0\02. String Matrix Rotation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\bin\Debug\netcoreapp2.0\02. String Matrix Rotation.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. String Matrix Rotation\obj\Debug\netcoreapp2.0\02. String Matrix Rotation.pdb

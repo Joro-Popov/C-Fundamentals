@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\bin\Debug\netcoreapp2.0\06. Truck Tour.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\bin\Debug\netcoreapp2.0\06. Truck Tour.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\bin\Debug\netcoreapp2.0\06. Truck Tour.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\bin\Debug\netcoreapp2.0\06. Truck Tour.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\bin\Debug\netcoreapp2.0\06. Truck Tour.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\06. Truck Tour\obj\Debug\netcoreapp2.0\06. Truck Tour.pdb

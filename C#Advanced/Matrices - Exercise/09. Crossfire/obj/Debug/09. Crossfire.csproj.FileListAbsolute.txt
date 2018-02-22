@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\bin\Debug\_09.Crossfire.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\obj\Debug\09. Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\09. Crossfire\obj\Debug\_09.Crossfire.pdb

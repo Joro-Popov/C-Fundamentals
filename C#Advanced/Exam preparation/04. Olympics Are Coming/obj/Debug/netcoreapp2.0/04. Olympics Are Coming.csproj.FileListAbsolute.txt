@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\bin\Debug\netcoreapp2.0\04. Olympics Are Coming.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\bin\Debug\netcoreapp2.0\04. Olympics Are Coming.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\bin\Debug\netcoreapp2.0\04. Olympics Are Coming.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\bin\Debug\netcoreapp2.0\04. Olympics Are Coming.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\bin\Debug\netcoreapp2.0\04. Olympics Are Coming.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Olympics Are Coming\obj\Debug\netcoreapp2.0\04. Olympics Are Coming.pdb

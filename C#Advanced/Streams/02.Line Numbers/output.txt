@@ -1,0 +1,11 @@
+0. This is an example text file.
+1. It is only for testing the program.
+2. The text in the next few lines,
+3. contains random words or sentences.
+4. -- This is text file.
+5. -- Created with notepad++.
+6. -- Odd Lines.
+7. -- C# Advanced
+8. -- SoftUni is awesome
+9. -- Programing is fun.
+10. -- That's enough. :D

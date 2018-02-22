@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\bin\Debug\netcoreapp2.0\05.Hot Potato.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\bin\Debug\netcoreapp2.0\05.Hot Potato.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\bin\Debug\netcoreapp2.0\05.Hot Potato.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\bin\Debug\netcoreapp2.0\05.Hot Potato.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\bin\Debug\netcoreapp2.0\05.Hot Potato.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\05.Hot Potato\obj\Debug\netcoreapp2.0\05.Hot Potato.pdb

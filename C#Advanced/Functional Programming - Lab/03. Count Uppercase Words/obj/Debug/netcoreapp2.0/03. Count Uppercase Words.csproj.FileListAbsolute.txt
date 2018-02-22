@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.0\03. Count Uppercase Words.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.0\03. Count Uppercase Words.pdb

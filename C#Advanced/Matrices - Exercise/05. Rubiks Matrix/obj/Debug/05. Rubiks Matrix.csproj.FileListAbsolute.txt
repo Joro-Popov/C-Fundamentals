@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\bin\Debug\_05.Rubiks_Matrix.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\obj\Debug\05. Rubiks Matrix.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\obj\Debug\05. Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\obj\Debug\_05.Rubiks_Matrix.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\05. Rubiks Matrix\obj\Debug\_05.Rubiks_Matrix.pdb

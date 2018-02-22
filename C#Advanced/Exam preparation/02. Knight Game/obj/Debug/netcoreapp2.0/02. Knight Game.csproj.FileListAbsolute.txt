@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.pdb

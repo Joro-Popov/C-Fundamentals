@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\bin\Debug\netcoreapp2.0\01. Jedi Meditation.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\bin\Debug\netcoreapp2.0\01. Jedi Meditation.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\bin\Debug\netcoreapp2.0\01. Jedi Meditation.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\bin\Debug\netcoreapp2.0\01. Jedi Meditation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\bin\Debug\netcoreapp2.0\01. Jedi Meditation.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Jedi Meditation\obj\Debug\netcoreapp2.0\01. Jedi Meditation.pdb

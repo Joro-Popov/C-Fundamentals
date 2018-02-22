@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\bin\Debug\netcoreapp2.0\01. Action Print.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\01. Action Print\obj\Debug\netcoreapp2.0\01. Action Print.pdb

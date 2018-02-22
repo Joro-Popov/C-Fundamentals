@@ -1,0 +1,9 @@
+..sln
+--../../Exam in advance 1\Exam in advance 1.sln - 1156kb
+--../../Functional Prog - Exercises\Functional Prog - Exercises.sln - 1147kb
+--../../Functional Programming - Lab\Functional Programming - Lab.sln - 3182kb
+--../../Matrices - Exercise\Matrices - Exercise.sln - 6798kb
+--../../Matrices - Lab\Matrices - Lab.sln - 2707kb
+--../../Stacks and Queues - Exercises\Stacks and Queues - Exercises.sln - 6341kb
+--../../StacksandQueues - Lab\StacksandQueues - Lab.sln - 3714kb
+--../../Streams\Streams.sln - 4186kb

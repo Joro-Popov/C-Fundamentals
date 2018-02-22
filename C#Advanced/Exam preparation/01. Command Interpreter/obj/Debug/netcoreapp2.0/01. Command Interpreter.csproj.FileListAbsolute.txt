@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\bin\Debug\netcoreapp2.0\01. Command Interpreter.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\bin\Debug\netcoreapp2.0\01. Command Interpreter.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\bin\Debug\netcoreapp2.0\01. Command Interpreter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\bin\Debug\netcoreapp2.0\01. Command Interpreter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\bin\Debug\netcoreapp2.0\01. Command Interpreter.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Command Interpreter\obj\Debug\netcoreapp2.0\01. Command Interpreter.pdb

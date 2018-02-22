@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\bin\Debug\_11.Parking_System.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\obj\Debug\11. Parking System.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\obj\Debug\11. Parking System.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\obj\Debug\_11.Parking_System.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\11. Parking System\obj\Debug\_11.Parking_System.pdb

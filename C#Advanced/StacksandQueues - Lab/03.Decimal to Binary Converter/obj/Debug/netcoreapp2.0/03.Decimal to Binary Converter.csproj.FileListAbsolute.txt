@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\bin\Debug\netcoreapp2.0\03.Decimal to Binary Converter.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\bin\Debug\netcoreapp2.0\03.Decimal to Binary Converter.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\bin\Debug\netcoreapp2.0\03.Decimal to Binary Converter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\bin\Debug\netcoreapp2.0\03.Decimal to Binary Converter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\bin\Debug\netcoreapp2.0\03.Decimal to Binary Converter.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\obj\Debug\netcoreapp2.0\03.Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\obj\Debug\netcoreapp2.0\03.Decimal to Binary Converter.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\obj\Debug\netcoreapp2.0\03.Decimal to Binary Converter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\obj\Debug\netcoreapp2.0\03.Decimal to Binary Converter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\03.Decimal to Binary Converter\obj\Debug\netcoreapp2.0\03.Decimal to Binary Converter.pdb

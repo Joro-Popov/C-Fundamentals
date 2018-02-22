@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\bin\Debug\netcoreapp2.0\01. Dangerous Floor.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\bin\Debug\netcoreapp2.0\01. Dangerous Floor.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\bin\Debug\netcoreapp2.0\01. Dangerous Floor.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\bin\Debug\netcoreapp2.0\01. Dangerous Floor.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\bin\Debug\netcoreapp2.0\01. Dangerous Floor.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Dangerous Floor\obj\Debug\netcoreapp2.0\01. Dangerous Floor.pdb

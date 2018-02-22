@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Stacks and Queues - Exercises\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.pdb

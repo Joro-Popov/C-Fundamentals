@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.pdb

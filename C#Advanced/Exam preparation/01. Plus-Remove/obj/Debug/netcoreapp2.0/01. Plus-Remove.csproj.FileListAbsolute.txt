@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\bin\Debug\netcoreapp2.0\01. Plus-Remove.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\bin\Debug\netcoreapp2.0\01. Plus-Remove.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\bin\Debug\netcoreapp2.0\01. Plus-Remove.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\bin\Debug\netcoreapp2.0\01. Plus-Remove.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\bin\Debug\netcoreapp2.0\01. Plus-Remove.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Plus-Remove\obj\Debug\netcoreapp2.0\01. Plus-Remove.pdb

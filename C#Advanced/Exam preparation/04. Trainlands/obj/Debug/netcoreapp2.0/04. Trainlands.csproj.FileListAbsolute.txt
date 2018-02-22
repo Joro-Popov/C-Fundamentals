@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\bin\Debug\netcoreapp2.0\04. Trainlands.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\bin\Debug\netcoreapp2.0\04. Trainlands.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\bin\Debug\netcoreapp2.0\04. Trainlands.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\bin\Debug\netcoreapp2.0\04. Trainlands.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\bin\Debug\netcoreapp2.0\04. Trainlands.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Trainlands\obj\Debug\netcoreapp2.0\04. Trainlands.pdb

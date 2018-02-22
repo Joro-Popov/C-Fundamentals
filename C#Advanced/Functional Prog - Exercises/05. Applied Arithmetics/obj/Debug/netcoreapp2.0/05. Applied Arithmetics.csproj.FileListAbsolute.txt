@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.0\05. Applied Arithmetics.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.0\05. Applied Arithmetics.pdb

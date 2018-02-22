@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\bin\Debug\netcoreapp2.0\04. Population Counter.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\bin\Debug\netcoreapp2.0\04. Population Counter.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\bin\Debug\netcoreapp2.0\04. Population Counter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\bin\Debug\netcoreapp2.0\04. Population Counter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\bin\Debug\netcoreapp2.0\04. Population Counter.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\04. Population Counter\obj\Debug\netcoreapp2.0\04. Population Counter.pdb

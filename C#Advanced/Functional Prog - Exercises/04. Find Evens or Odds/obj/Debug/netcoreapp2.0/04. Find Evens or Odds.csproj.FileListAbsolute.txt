@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.0\04. Find Evens or Odds.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.0\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.0\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.0\04. Find Evens or Odds.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.0\04. Find Evens or Odds.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.0\04. Find Evens or Odds.pdb

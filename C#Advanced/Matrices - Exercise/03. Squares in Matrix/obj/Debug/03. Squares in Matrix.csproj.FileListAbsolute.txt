@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\bin\Debug\_03.Squares_in_Matrix.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\obj\Debug\03. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\03. Squares in Matrix\obj\Debug\_03.Squares_in_Matrix.pdb

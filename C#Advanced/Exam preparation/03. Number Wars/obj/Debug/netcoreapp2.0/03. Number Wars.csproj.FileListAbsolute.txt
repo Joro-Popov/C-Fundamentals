@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\bin\Debug\netcoreapp2.0\03. Number Wars.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\bin\Debug\netcoreapp2.0\03. Number Wars.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\bin\Debug\netcoreapp2.0\03. Number Wars.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\bin\Debug\netcoreapp2.0\03. Number Wars.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\bin\Debug\netcoreapp2.0\03. Number Wars.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Number Wars\obj\Debug\netcoreapp2.0\03. Number Wars.csprojResolveAssemblyReference.cache

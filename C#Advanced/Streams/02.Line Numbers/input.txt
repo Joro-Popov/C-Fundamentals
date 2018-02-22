@@ -1,0 +1,11 @@
+﻿This is an example text file.
+It is only for testing the program.
+The text in the next few lines,
+contains random words or sentences.
+-- This is text file.
+-- Created with notepad++.
+-- Odd Lines.
+-- C# Advanced
+-- SoftUni is awesome
+-- Programing is fun.
+-- That's enough. :D

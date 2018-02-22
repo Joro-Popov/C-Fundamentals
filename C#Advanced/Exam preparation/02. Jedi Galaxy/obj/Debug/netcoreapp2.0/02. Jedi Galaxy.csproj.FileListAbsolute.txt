@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\bin\Debug\netcoreapp2.0\02. Jedi Galaxy.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\bin\Debug\netcoreapp2.0\02. Jedi Galaxy.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\bin\Debug\netcoreapp2.0\02. Jedi Galaxy.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\bin\Debug\netcoreapp2.0\02. Jedi Galaxy.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\bin\Debug\netcoreapp2.0\02. Jedi Galaxy.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Jedi Galaxy\obj\Debug\netcoreapp2.0\02. Jedi Galaxy.pdb

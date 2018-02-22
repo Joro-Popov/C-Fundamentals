@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\bin\Debug\netcoreapp2.0\03. Rage Quit.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Rage Quit\obj\Debug\netcoreapp2.0\03. Rage Quit.pdb

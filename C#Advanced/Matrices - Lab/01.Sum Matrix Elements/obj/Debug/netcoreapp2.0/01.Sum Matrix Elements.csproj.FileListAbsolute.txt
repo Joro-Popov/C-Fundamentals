@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\bin\Debug\netcoreapp2.0\01.Sum Matrix Elements.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\bin\Debug\netcoreapp2.0\01.Sum Matrix Elements.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\bin\Debug\netcoreapp2.0\01.Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\bin\Debug\netcoreapp2.0\01.Sum Matrix Elements.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\bin\Debug\netcoreapp2.0\01.Sum Matrix Elements.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Matrices - Lab\01.Sum Matrix Elements\obj\Debug\netcoreapp2.0\01.Sum Matrix Elements.pdb

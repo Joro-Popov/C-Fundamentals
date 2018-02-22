@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\bin\Debug\_02.Diagonal_Difference.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\obj\Debug\02. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\02. Diagonal Difference\obj\Debug\_02.Diagonal_Difference.pdb

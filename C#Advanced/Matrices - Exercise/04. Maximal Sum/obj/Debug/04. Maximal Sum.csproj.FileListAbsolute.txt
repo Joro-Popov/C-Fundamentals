@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\bin\Debug\_04.Maximal_Sum.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\obj\Debug\04. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\obj\Debug\_04.Maximal_Sum.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\Matrices - Exercise\04. Maximal Sum\obj\Debug\_04.Maximal_Sum.pdb

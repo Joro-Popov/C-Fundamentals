@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Functional Prog - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.pdb

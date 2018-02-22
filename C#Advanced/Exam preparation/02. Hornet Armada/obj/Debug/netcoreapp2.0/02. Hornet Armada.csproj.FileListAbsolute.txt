@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\bin\Debug\netcoreapp2.0\02. Hornet Armada.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\bin\Debug\netcoreapp2.0\02. Hornet Armada.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\bin\Debug\netcoreapp2.0\02. Hornet Armada.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\bin\Debug\netcoreapp2.0\02. Hornet Armada.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\bin\Debug\netcoreapp2.0\02. Hornet Armada.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\02. Hornet Armada\obj\Debug\netcoreapp2.0\02. Hornet Armada.pdb

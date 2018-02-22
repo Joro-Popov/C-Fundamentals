@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\bin\Debug\netcoreapp2.0\03. Text Transformer.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\bin\Debug\netcoreapp2.0\03. Text Transformer.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\bin\Debug\netcoreapp2.0\03. Text Transformer.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\bin\Debug\netcoreapp2.0\03. Text Transformer.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\bin\Debug\netcoreapp2.0\03. Text Transformer.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\03. Text Transformer\obj\Debug\netcoreapp2.0\03. Text Transformer.pdb

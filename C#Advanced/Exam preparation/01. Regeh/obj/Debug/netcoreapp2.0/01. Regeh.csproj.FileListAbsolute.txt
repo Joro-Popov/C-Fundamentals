@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\bin\Debug\netcoreapp2.0\01. Regeh.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\bin\Debug\netcoreapp2.0\01. Regeh.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\bin\Debug\netcoreapp2.0\01. Regeh.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\bin\Debug\netcoreapp2.0\01. Regeh.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\bin\Debug\netcoreapp2.0\01. Regeh.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\obj\Debug\netcoreapp2.0\01. Regeh.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\obj\Debug\netcoreapp2.0\01. Regeh.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\obj\Debug\netcoreapp2.0\01. Regeh.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\obj\Debug\netcoreapp2.0\01. Regeh.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\Exam preparation\01. Regeh\obj\Debug\netcoreapp2.0\01. Regeh.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\bin\Debug\netcoreapp2.0\04.Matching Brackets.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\bin\Debug\netcoreapp2.0\04.Matching Brackets.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\bin\Debug\netcoreapp2.0\04.Matching Brackets.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\bin\Debug\netcoreapp2.0\04.Matching Brackets.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\bin\Debug\netcoreapp2.0\04.Matching Brackets.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# Advanced\03.Solutions\StacksandQueues - Lab\04.Matching Brackets\obj\Debug\netcoreapp2.0\04.Matching Brackets.pdb
