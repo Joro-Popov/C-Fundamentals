@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\bin\Debug\netcoreapp2.0\02.CreateAttribute.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\bin\Debug\netcoreapp2.0\02.CreateAttribute.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\bin\Debug\netcoreapp2.0\02.CreateAttribute.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\bin\Debug\netcoreapp2.0\02.CreateAttribute.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\bin\Debug\netcoreapp2.0\02.CreateAttribute.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\02.CreateAttribute\obj\Debug\netcoreapp2.0\02.CreateAttribute.pdb

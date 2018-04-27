@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.pdb

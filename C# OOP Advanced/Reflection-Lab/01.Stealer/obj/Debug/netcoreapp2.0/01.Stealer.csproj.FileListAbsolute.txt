@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\bin\Debug\netcoreapp2.0\01.Stealer.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Lab\01.Stealer\obj\Debug\netcoreapp2.0\01.Stealer.pdb

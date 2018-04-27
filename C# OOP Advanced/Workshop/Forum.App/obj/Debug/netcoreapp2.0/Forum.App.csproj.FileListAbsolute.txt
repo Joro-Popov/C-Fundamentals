@@ -1,0 +1,16 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CopyComplete
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Workshop\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb

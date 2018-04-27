@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.pdb

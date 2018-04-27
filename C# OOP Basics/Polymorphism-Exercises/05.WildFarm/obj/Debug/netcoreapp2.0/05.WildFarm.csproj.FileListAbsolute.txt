@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\bin\Debug\netcoreapp2.0\05.WildFarm.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\bin\Debug\netcoreapp2.0\05.WildFarm.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\bin\Debug\netcoreapp2.0\05.WildFarm.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\bin\Debug\netcoreapp2.0\05.WildFarm.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\bin\Debug\netcoreapp2.0\05.WildFarm.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\05.WildFarm\obj\Debug\netcoreapp2.0\05.WildFarm.pdb

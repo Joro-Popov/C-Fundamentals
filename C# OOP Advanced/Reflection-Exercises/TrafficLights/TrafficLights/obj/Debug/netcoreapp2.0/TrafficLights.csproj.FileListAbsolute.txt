@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.0\InfernoInfinity.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.0\InfernoInfinity.pdb

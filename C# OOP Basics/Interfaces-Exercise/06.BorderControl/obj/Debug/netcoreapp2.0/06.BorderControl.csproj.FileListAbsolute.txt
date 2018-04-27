@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\bin\Debug\netcoreapp2.0\06.BorderControl.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\bin\Debug\netcoreapp2.0\06.BorderControl.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\bin\Debug\netcoreapp2.0\06.BorderControl.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\bin\Debug\netcoreapp2.0\06.BorderControl.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\bin\Debug\netcoreapp2.0\06.BorderControl.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\06.BorderControl\obj\Debug\netcoreapp2.0\06.BorderControl.csprojResolveAssemblyReference.cache

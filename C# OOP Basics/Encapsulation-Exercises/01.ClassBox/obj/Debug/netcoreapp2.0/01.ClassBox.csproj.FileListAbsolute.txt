@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb

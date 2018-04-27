@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\netcoreapp2.0\02.SalaryIncrease.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\netcoreapp2.0\02.SalaryIncrease.pdb

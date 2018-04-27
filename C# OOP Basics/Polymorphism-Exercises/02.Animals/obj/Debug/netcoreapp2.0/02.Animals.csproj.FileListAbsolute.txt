@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\bin\Debug\netcoreapp2.0\02.Animals.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\02.Animals\obj\Debug\netcoreapp2.0\02.Animals.pdb

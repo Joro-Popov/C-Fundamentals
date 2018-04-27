@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\bin\Debug\netcoreapp2.0\04.ShoppingSpree.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\04.ShoppingSpree\obj\Debug\netcoreapp2.0\04.ShoppingSpree.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp2.0\Froggy.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp2.0\Froggy.pdb

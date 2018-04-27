@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb

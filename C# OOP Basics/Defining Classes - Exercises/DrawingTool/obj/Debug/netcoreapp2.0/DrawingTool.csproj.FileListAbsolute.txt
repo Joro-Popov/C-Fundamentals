@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\bin\Debug\netcoreapp2.0\DrawingTool.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\DrawingTool\obj\Debug\netcoreapp2.0\DrawingTool.pdb

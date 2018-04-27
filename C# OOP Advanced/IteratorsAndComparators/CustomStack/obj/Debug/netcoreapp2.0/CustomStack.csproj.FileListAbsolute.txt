@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\bin\Debug\netcoreapp2.0\CustomStack.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\CustomStack\obj\Debug\netcoreapp2.0\CustomStack.pdb

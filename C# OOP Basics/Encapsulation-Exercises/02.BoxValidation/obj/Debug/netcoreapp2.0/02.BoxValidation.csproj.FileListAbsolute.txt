@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\bin\Debug\netcoreapp2.0\02.BoxValidation.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\bin\Debug\netcoreapp2.0\02.BoxValidation.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\bin\Debug\netcoreapp2.0\02.BoxValidation.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\bin\Debug\netcoreapp2.0\02.BoxValidation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\bin\Debug\netcoreapp2.0\02.BoxValidation.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Exercises\02.BoxValidation\obj\Debug\netcoreapp2.0\02.BoxValidation.pdb

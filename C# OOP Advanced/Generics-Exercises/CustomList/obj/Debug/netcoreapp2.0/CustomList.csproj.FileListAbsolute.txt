@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\bin\Debug\netcoreapp2.0\CustomList.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\bin\Debug\netcoreapp2.0\CustomList.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\bin\Debug\netcoreapp2.0\CustomList.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\CustomList\obj\Debug\netcoreapp2.0\CustomList.pdb

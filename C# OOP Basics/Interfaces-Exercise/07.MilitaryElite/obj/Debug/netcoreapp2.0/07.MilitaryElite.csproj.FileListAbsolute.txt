@@ -1,0 +1,22 @@
+C:\Users\JORO\Desktop\Submission_6702183\bin\Debug\netcoreapp2.0\07.MilitaryElite.deps.json
+C:\Users\JORO\Desktop\Submission_6702183\bin\Debug\netcoreapp2.0\07.MilitaryElite.runtimeconfig.json
+C:\Users\JORO\Desktop\Submission_6702183\bin\Debug\netcoreapp2.0\07.MilitaryElite.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Submission_6702183\bin\Debug\netcoreapp2.0\07.MilitaryElite.dll
+C:\Users\JORO\Desktop\Submission_6702183\bin\Debug\netcoreapp2.0\07.MilitaryElite.pdb
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.dll
+C:\Users\JORO\Desktop\Submission_6702183\obj\Debug\netcoreapp2.0\07.MilitaryElite.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\obj\Debug\netcoreapp2.0\07.MilitaryElite.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\bin\Debug\netcoreapp2.0\07.MilitaryElite.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\bin\Debug\netcoreapp2.0\07.MilitaryElite.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\bin\Debug\netcoreapp2.0\07.MilitaryElite.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\bin\Debug\netcoreapp2.0\07.MilitaryElite.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\07.MilitaryElite\bin\Debug\netcoreapp2.0\07.MilitaryElite.pdb

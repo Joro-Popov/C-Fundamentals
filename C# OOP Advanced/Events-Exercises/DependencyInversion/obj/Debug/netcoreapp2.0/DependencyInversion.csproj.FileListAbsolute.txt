@@ -1,0 +1,11 @@
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.deps.json
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.runtimeconfig.json
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.runtimeconfig.dev.json
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.dll
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\bin\Debug\netcoreapp2.0\DependencyInversion.pdb
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.dll
+C:\Users\JORO\source\repos\Events-Exercises\DependencyInversion\obj\Debug\netcoreapp2.0\DependencyInversion.pdb

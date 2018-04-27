@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\bin\Debug\netcoreapp2.0\BubbleSort.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\BuubleSort\obj\Debug\netcoreapp2.0\BubbleSort.pdb

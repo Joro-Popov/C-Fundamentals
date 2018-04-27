@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\bin\Debug\netcoreapp2.0\01.DefineClassPerson.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\01.DefineClassPerson\obj\Debug\netcoreapp2.0\01.DefineClassPerson.pdb

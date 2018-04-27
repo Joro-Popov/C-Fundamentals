@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\bin\Debug\netcoreapp2.0\01. Bank Account.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\bin\Debug\netcoreapp2.0\01. Bank Account.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\bin\Debug\netcoreapp2.0\01. Bank Account.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\bin\Debug\netcoreapp2.0\01. Bank Account.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\bin\Debug\netcoreapp2.0\01. Bank Account.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\01. Bank Account\obj\Debug\netcoreapp2.0\01. Bank Account.pdb

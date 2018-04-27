@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\bin\Debug\netcoreapp2.0\03.IPersonInterface.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\bin\Debug\netcoreapp2.0\03.IPersonInterface.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\bin\Debug\netcoreapp2.0\03.IPersonInterface.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\bin\Debug\netcoreapp2.0\03.IPersonInterface.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\bin\Debug\netcoreapp2.0\03.IPersonInterface.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\03.IPersonInterface\obj\Debug\netcoreapp2.0\03.IPersonInterface.pdb

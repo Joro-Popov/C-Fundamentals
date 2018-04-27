@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

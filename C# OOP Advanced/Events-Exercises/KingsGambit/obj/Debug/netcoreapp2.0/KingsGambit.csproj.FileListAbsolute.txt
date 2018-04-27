@@ -1,0 +1,11 @@
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.deps.json
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.json
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.runtimeconfig.dev.json
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\bin\Debug\netcoreapp2.0\KingsGambit.pdb
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csprojResolveAssemblyReference.cache
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.csproj.CoreCompileInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfoInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.AssemblyInfo.cs
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.dll
+C:\Users\JORO\source\repos\Events-Exercises\KingsGambit\obj\Debug\netcoreapp2.0\KingsGambit.pdb

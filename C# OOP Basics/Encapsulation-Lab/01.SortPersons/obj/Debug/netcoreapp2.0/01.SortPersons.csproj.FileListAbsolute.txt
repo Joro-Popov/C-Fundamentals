@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\bin\Debug\netcoreapp2.0\01.SortPersons.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\bin\Debug\netcoreapp2.0\01.SortPersons.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\bin\Debug\netcoreapp2.0\01.SortPersons.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\bin\Debug\netcoreapp2.0\01.SortPersons.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\bin\Debug\netcoreapp2.0\01.SortPersons.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Encapsulation-Lab\01.SortPersons\obj\Debug\netcoreapp2.0\01.SortPersons.pdb

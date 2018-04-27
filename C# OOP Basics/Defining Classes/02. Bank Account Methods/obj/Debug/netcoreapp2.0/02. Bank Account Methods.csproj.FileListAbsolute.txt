@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.pdb

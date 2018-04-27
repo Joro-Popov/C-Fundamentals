@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Working with Abstraction - Lab\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb

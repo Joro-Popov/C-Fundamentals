@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators-Lab\Library\obj\Debug\netcoreapp2.0\Library.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\bin\Debug\netcoreapp2.0\Google.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\bin\Debug\netcoreapp2.0\Google.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\Google\obj\Debug\netcoreapp2.0\Google.pdb

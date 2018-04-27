@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\bin\Debug\Avatar-Exam.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\bin\Debug\Avatar-Exam.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\bin\Debug\Avatar-Exam.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\obj\Debug\Avatar-Exam.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\obj\Debug\Avatar-Exam.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\obj\Debug\Avatar-Exam.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\Avatar-Exam\Avatar-Exam\obj\Debug\Avatar-Exam.pdb

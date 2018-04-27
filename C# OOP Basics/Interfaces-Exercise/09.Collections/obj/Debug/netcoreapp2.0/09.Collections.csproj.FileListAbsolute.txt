@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\bin\Debug\netcoreapp2.0\09.Collections.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\bin\Debug\netcoreapp2.0\09.Collections.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\bin\Debug\netcoreapp2.0\09.Collections.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\bin\Debug\netcoreapp2.0\09.Collections.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\bin\Debug\netcoreapp2.0\09.Collections.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\09.Collections\obj\Debug\netcoreapp2.0\09.Collections.pdb

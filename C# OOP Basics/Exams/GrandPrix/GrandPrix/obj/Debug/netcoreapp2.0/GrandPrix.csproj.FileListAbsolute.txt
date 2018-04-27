@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\GrandPrix\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\bin\Debug\netcoreapp2.0\05.MordorCruelPlan.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\05.Mortodor\obj\Debug\netcoreapp2.0\05.MordorCruelPlan.pdb

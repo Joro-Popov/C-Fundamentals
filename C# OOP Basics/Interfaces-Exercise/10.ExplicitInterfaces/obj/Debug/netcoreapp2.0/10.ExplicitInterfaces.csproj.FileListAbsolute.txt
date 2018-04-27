@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Interfaces-Exercise\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

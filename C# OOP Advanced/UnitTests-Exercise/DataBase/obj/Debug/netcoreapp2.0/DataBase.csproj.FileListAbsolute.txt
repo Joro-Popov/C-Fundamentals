@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\bin\Debug\netcoreapp2.0\DataBase.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\bin\Debug\netcoreapp2.0\DataBase.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\bin\Debug\netcoreapp2.0\DataBase.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\bin\Debug\netcoreapp2.0\DataBase.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\bin\Debug\netcoreapp2.0\DataBase.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\UnitTests-Exercise\DataBase\obj\Debug\netcoreapp2.0\DataBase.pdb

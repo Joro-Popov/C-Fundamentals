@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\bin\Debug\netcoreapp2.0\10.Tuple.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Generics-Exercises\10.Tuple\obj\Debug\netcoreapp2.0\10.Tuple.csprojResolveAssemblyReference.cache

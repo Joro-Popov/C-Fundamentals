@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.0\ListyIterator.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.0\ListyIterator.pdb

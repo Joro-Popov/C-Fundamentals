@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\bin\Debug\PawInc.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\bin\Debug\PawInc.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\bin\Debug\PawInc.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\obj\Debug\PawInc.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\obj\Debug\PawInc.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\obj\Debug\PawInc.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\PawInc\PawInc\obj\Debug\PawInc.pdb

@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\obj\Debug\SystemSplit-Exam.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\obj\Debug\SystemSplit-Exam.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\bin\Debug\SystemSplit-Exam.exe.config
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\bin\Debug\SystemSplit-Exam.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\bin\Debug\SystemSplit-Exam.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\obj\Debug\SystemSplit-Exam.exe
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Exams\SystemSplit-Exam\SystemSplit-Exam\obj\Debug\SystemSplit-Exam.pdb

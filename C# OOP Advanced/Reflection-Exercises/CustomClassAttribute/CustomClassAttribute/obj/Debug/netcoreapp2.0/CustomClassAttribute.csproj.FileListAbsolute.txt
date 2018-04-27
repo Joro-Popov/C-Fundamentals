@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\bin\Debug\netcoreapp2.0\CustomClassAttribute.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\bin\Debug\netcoreapp2.0\CustomClassAttribute.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\bin\Debug\netcoreapp2.0\CustomClassAttribute.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\bin\Debug\netcoreapp2.0\CustomClassAttribute.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\bin\Debug\netcoreapp2.0\CustomClassAttribute.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\Reflection-Exercises\CustomClassAttribute\CustomClassAttribute\obj\Debug\netcoreapp2.0\CustomClassAttribute.pdb

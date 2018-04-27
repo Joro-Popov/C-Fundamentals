@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\bin\Debug\netcoreapp2.0\CatLady.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\bin\Debug\netcoreapp2.0\CatLady.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\bin\Debug\netcoreapp2.0\CatLady.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\bin\Debug\netcoreapp2.0\CatLady.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\CatLady\obj\Debug\netcoreapp2.0\CatLady.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Advanced\03.Solutions\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.0\StrategyPattern.csprojResolveAssemblyReference.cache

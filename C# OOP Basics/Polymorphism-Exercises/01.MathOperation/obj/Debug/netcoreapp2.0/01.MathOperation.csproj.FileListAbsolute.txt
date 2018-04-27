@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\bin\Debug\netcoreapp2.0\01.MathOperation.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Polymorphism-Exercises\01.MathOperation\obj\Debug\netcoreapp2.0\01.MathOperation.pdb

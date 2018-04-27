@@ -1,0 +1,11 @@
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.csprojResolveAssemblyReference.cache
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.csproj.CoreCompileInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.AssemblyInfoInputs.cache
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.AssemblyInfo.cs
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.deps.json
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.runtimeconfig.json
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.runtimeconfig.dev.json
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.dll
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\bin\Debug\netcoreapp2.0\WorkForce.pdb
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.dll
+C:\Users\JORO\source\repos\Events-Exercises\WorkForce\obj\Debug\netcoreapp2.0\WorkForce.pdb

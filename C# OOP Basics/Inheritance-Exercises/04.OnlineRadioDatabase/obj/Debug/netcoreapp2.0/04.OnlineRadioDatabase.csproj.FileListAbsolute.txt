@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Inheritance-Exercises\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb

@@ -1,0 +1,11 @@
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\JORO\Desktop\Professional Modules\C# Fundamentals\C# OOP Basics\03.Solutions\Defining Classes - Exercises\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb
